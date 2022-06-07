@@ -4,7 +4,7 @@ A simple resolution to a common algorithm excercise.
 ## The problem
 **Print to the console the _"FIBONACCI SEQUENCE"_, a sequence of numbers beginning with _0_ and _1_, beeing the next one the sum of the two predecessors. The number passed as parameter is the amount of iteractions the list should have.**
 
-*Example: for a list that should have 8 iteractions,*
+*Example: for a list that should have 8 iteractions,*  
 0  
 1  
 1  
